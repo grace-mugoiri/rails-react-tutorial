@@ -3,7 +3,11 @@ class V1::ThingsController < ApplicationController
 		render json: {:things => [
 			{
 				:name => 'some-things',
-				:guid => 'some-random-number'
+				:guid => '12343-fg-43333'
+			},
+			{
+				:name => 'some-things-else',
+				:guid => '12343-fg-7539'
 			}
 		] }.to_json
 	end
