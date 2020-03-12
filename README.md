@@ -17,5 +17,8 @@ Simple single-page-app with React/Rails Tutorial from [Free Code Camp](https://w
 	- rails server -p 3000
 # Automatically updating the browser
 	- ./bin/webpack-dev-server
+# Screenshot of the expected output 
+<img width="843" alt="Screen Shot 2020-03-12 at 18 48 00" src="https://user-images.githubusercontent.com/20679425/76539637-134c6d00-6492-11ea-993c-9661b0ac5b03.png">
+
 
 
