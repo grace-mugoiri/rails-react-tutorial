@@ -1,25 +1,21 @@
-# README
+Simple single-page-app with React/Rails Tutorial from [Free Code Camp](https://www.freecodecamp.org/news/how-to-create-a-rails-project-with-a-react-and-redux-front-end-8b01e17a1db/).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Libraries used
+	- Redux
+	- React Router
+	- Reselect
+	- Redux Thunk
+	- Semantic UI
 
-Things you may want to cover:
+# System Requirements
+	- Ruby
+	- Rails
+	- Bundler
+	- Node
 
-* Ruby version
+# Firing up the server
+	- rails server -p 3000
+# Automatically updating the browser
+	- ./bin/webpack-dev-server
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ... change
 
